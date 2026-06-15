@@ -1,8 +1,8 @@
 <div align="center">
   
-# 💻 Hi, I'm Sabrina Balqis
+# 🌸 Hi, I'm Sabrina Balqis
 
-### building digital experiences, one pixel at a time
+### building digital experiences, one pixel at a time  💻 
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=3000&pause=1000&center=true&vCenter=true&width=750&height=60&color=6B8EAD&lines=%3E+Frontend+Developer;%3E+UI%2FUX+Enthusiast;%3E+IT+Business+Analyst;%3E+Cybersecurity+Explorer;%3E+Coffee+%2B+Code+%3D+%3C%2F%3E" alt="Typing SVG" />
 
